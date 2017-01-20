@@ -23,6 +23,8 @@ bismark:
         fn: '*.nucleotide_stats.txt'
 bowtie:
     contents: '# reads processed:'
+map_statistics:
+    contents: 'Number of features:'
 bowtie2:
     contents: 'reads; of these:'
 custom_content:

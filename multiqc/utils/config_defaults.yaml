@@ -178,3 +178,4 @@ module_order:
     - 'skewer'
     - 'fastq_screen'
     - 'fastqc'
+    - 'map_statistics'

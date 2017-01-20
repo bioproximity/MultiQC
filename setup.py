@@ -87,6 +87,7 @@ setup(
             'tophat = multiqc.modules.tophat:MultiqcModule',
             'trimmomatic = multiqc.modules.trimmomatic:MultiqcModule',
             'gatk = multiqc.modules.gatk:MultiqcModule',
+            'map_statistics = multiqc.modules.map_statistics:MultiqcModule',
         ],
         'multiqc.templates.v1': [
             'default = multiqc.templates.default',
